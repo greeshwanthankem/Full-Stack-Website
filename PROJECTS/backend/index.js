@@ -14,7 +14,7 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 8000;
 const corsOptions = {
-  origin: "https://full-stack-website-bmrd.onrender.com",
+  origin: "https://full-stack-website-hazel.vercel.app",
 };
 
 // database connection
